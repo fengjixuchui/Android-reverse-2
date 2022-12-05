@@ -7,10 +7,10 @@
 - [03.Android加壳与脱壳（3）——制作简易第一代加壳器](https://mp.weixin.qq.com/s/LWTFNDV1dff8cdBakd1AOQ)
 - [04.Android加壳与脱壳（4）—— 一次加壳恶意应用检测的对抗](https://mp.weixin.qq.com/s/LYIASwSBq03b3_n7KW0AKw)
 - [05.Android加壳与脱壳（5）—— 一代壳脱壳工具集](https://mp.weixin.qq.com/s/RpBA6_fWGRMbkEZUkaECog)
-- 06.Android加壳与脱壳（6）—— 一不落地加载壳的分析与实现
-- 07.Android加壳与脱壳（7）—— 一不落地加载壳加壳器的实现
-- 08.Android加壳与脱壳（8）—— 一整体壳的脱壳原理总结
-- 09.Android加壳与脱壳（9）—— 一函数抽取壳的原理解析
+- [06.Android加壳与脱壳（6）——各类加壳器和分析项目推荐](https://mp.weixin.qq.com/s?__biz=MzI3MDQ1NDE2OA==&mid=2247484559&idx=1&sn=073f1f53c8a68096a124bb1f9577ff2d&chksm=ead19878dda6116eb1bb1aaf006e2502ffad9cbd54e0a8c37ccb483513631437e2d6ca761e5a&token=1969623902&lang=zh_CN#rd)
+- [07.Android加壳与脱壳（7）——Fdex2源码赏析](https://mp.weixin.qq.com/s/OYb3cXPhWwjCqCz2es6iaA)
+- [08.Android加壳与脱壳（8）——Fdex2版本扩展实现](https://mp.weixin.qq.com/s/h7gqmqE49UBrOfh2OYl-KQ)
+- [09.Android加壳与脱壳（9）—— youpk脱壳机源码解析](https://mp.weixin.qq.com/s?__biz=MzI3MDQ1NDE2OA==&mid=2247485074&idx=1&sn=89c3e5317e5f44e61c905e25060262f3&chksm=ead19a65dda613732641374764d1fd33c0396a7eef7a64fd5a1edea2d74cc2c16f6f4e19e08c&token=940465125&lang=zh_CN#rd)
 - 10.Android加壳与脱壳（10）—— 一填充型+偏移型抽取壳的原理解析
 - 11.Android加壳与脱壳（11）—— 一自解密型抽取壳的原理解析
 - 12.Android加壳与脱壳（12）—— 一抽取壳脱壳方法详解
@@ -36,11 +36,7 @@
 - [01.源码编译（1）——Android6.0源码编译详解](https://bbs.pediy.com/thread-269575.htm)
 - [02.源码编译（2）——Xopsed源码编译详解](https://bbs.pediy.com/thread-269616.htm)
 - [03.源码编译（3）——Xposed框架定制 ](https://bbs.pediy.com/thread-269627.htm)
-- [04.源码编译（4）——开机自动授权和强制授权]
-- [05.源码编译（5）——强制开启调试接口]
-- [06.源码编译（6）——绕过反调策略]
-- [07.源码编译（7）——root自定义]
-- [08.源码编译（8）——root指纹抹除及镜像净化]
+- [04.源码编译（4）——root定制与指纹抹除](https://mp.weixin.qq.com/s?__biz=MzI3MDQ1NDE2OA==&mid=2247484684&idx=1&sn=c5f0c9b525e820d198a4da3a7256bab9&chksm=ead199fbdda610ed1e26fc63bf80456c4b4646349e5d44206335d8ba38aeccc95b815d484a60&token=1324308020&lang=zh_CN#rd)
 
 ## （3）Web服务器探测篇
 
@@ -63,6 +59,10 @@
 - [03.Android恶意应用检测研究（3）—— Android恶意样本分析——frida破解三层锁机样本](https://bbs.pediy.com/thread-269128.htm)
 ## 未完待续
 
+详细可以关注微信公众号：安全后厨，进入加壳与脱壳合集，方便学习
+
+![加壳](https://tvax1.sinaimg.cn/wap360/006jP03Oly1h8d0k1zphkj30ij0pj7b2.jpg)
+
 ===========================================================
 
 ## 相关附件，存放在知识星球，欢迎加入知识星球——安全后厨
@@ -72,3 +72,5 @@
 考虑加群的广告号太多，需要加微信群朋友，加小编微信，回复:安全后厨
 
 ![640](https://tva3.sinaimg.cn/wap360/006jP03Oly1h7zufjtez2j30tu14fjur.jpg)
+
+
